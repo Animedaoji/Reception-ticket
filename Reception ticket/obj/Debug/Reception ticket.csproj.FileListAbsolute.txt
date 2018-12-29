@@ -1,0 +1,7 @@
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket\bin\Reception ticket.dll.config
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket\bin\Reception ticket.dll
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket\bin\Reception ticket.pdb
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket\obj\Debug\Reception ticket.csprojAssemblyReference.cache
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket\obj\Debug\Reception ticket.csproj.CoreCompileInputs.cache
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket\obj\Debug\Reception ticket.dll
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket\obj\Debug\Reception ticket.pdb

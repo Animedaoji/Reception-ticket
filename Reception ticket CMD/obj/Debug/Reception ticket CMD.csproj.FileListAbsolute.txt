@@ -1,0 +1,10 @@
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\bin\Debug\Reception ticket CMD.exe
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\bin\Debug\Reception ticket CMD.pdb
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\obj\Debug\Reception ticket CMD.csproj.CoreCompileInputs.cache
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\obj\Debug\Reception ticket CMD.exe
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\obj\Debug\Reception ticket CMD.pdb
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\bin\Debug\Reception ticket CMD.exe.config
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\bin\Debug\SqlTools.dll
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\bin\Debug\SqlTools.pdb
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\obj\Debug\Reception ticket CMD.csprojAssemblyReference.cache
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\Reception ticket CMD\obj\Debug\Reception ticket CMD.csproj.CopyComplete

@@ -1,0 +1,6 @@
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\SqlTools\bin\Debug\SqlTools.dll
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\SqlTools\bin\Debug\SqlTools.pdb
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\SqlTools\obj\Debug\SqlTools.csprojAssemblyReference.cache
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\SqlTools\obj\Debug\SqlTools.csproj.CoreCompileInputs.cache
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\SqlTools\obj\Debug\SqlTools.dll
+E:\盗计工作室\VS Projects\Reception ticket\Reception ticket\SqlTools\obj\Debug\SqlTools.pdb
